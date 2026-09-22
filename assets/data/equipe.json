@@ -1,0 +1,70 @@
+[
+  {
+    "nome": "Jim Henson",
+    "funcao": "Diretor"
+  },
+  {
+    "nome": "Terry Jones",
+    "funcao": "Roteirista"
+  },
+  {
+    "nome": "Dennis Lee",
+    "funcao": "História"
+  },
+  {
+    "nome": "Eric Rattray",
+    "funcao": "Produtor"
+  },
+  {
+    "nome": "George Lucas",
+    "funcao": "Produtor executivo"
+  },
+  {
+    "nome": "David Lazer",
+    "funcao": "Produtor executivo / supervisor"
+  },
+  {
+    "nome": "Alex Thomson",
+    "funcao": "Diretor de fotografia"
+  },
+  {
+    "nome": "John Grover",
+    "funcao": "Editor"
+  },
+  {
+    "nome": "Jane Jenkins",
+    "funcao": "Diretora de casting"
+  },
+  {
+    "nome": "Elliot Scott",
+    "funcao": "Designer de produção"
+  },
+  {
+    "nome": "Ellis Flyte",
+    "funcao": "Figurinista"
+  },
+  {
+    "nome": "Brian Froud",
+    "funcao": "Figurinista / designer conceitual"
+  },
+  {
+    "nome": "Polly Smith",
+    "funcao": "Design de figurinos — Creature Shop"
+  },
+  {
+    "nome": "Trevor Jones",
+    "funcao": "Compositor"
+  },
+  {
+    "nome": "Nick Dudman",
+    "funcao": "Maquiagem"
+  },
+  {
+    "nome": "Derry Haws",
+    "funcao": "Maquiagem"
+  },
+  {
+    "nome": "Wally Schneiderman",
+    "funcao": "Supervisor de maquiagem"
+  }
+]

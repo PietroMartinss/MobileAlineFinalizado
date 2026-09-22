@@ -1,0 +1,1 @@
+Coloque aqui os prints reais das telas: tela-inicial.png, tela-informacoes.png, tela-elenco.png, tela-detalhes-ator.png e tela-equipe.png.

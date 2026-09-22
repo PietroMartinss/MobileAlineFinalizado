@@ -1,0 +1,123 @@
+[
+  {
+    "nome": "David Bowie",
+    "personagem": "Jareth",
+    "imagem": "assets/images/david_bowie.jpg",
+    "descricao": "Interpreta Jareth, o Rei dos Duendes, que leva Toby para seu reino e desafia Sarah a atravessar o labirinto.",
+    "dataNascimento": "8 de janeiro de 1947",
+    "localNascimento": "Brixton, Londres, Inglaterra",
+    "biografia": "David Bowie foi um cantor, compositor e ator britânico. Em Labirinto, interpretou Jareth, o Rei dos Duendes, além de contribuir com músicas para a trilha sonora do filme.",
+    "curiosidade": "Além de atuar como Jareth, David Bowie escreveu e interpretou várias músicas do filme, incluindo Magic Dance.",
+    "siteOficial": "https://www.davidbowie.com/"
+  },
+  {
+    "nome": "Jennifer Connelly",
+    "personagem": "Sarah",
+    "imagem": "assets/images/jennifer_connelly.jpg",
+    "descricao": "Interpreta Sarah, uma adolescente que precisa atravessar o labirinto para resgatar seu irmão Toby.",
+    "dataNascimento": "12 de dezembro de 1970",
+    "localNascimento": "Cairo, Nova York, EUA",
+    "biografia": "Jennifer Connelly é uma atriz norte-americana que começou sua carreira ainda jovem. Em Labirinto, interpretou Sarah, protagonista que entra no mundo fantástico dos Duendes para salvar seu irmão.",
+    "curiosidade": "Labirinto foi um dos primeiros grandes papéis de Jennifer Connelly no cinema e se tornou uma de suas obras mais conhecidas do início da carreira.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Toby Froud",
+    "personagem": "Toby",
+    "imagem": "assets/images/toby_froud.jpg",
+    "descricao": "Interpreta Toby, o bebê de Sarah que é levado por Jareth para o reino dos Duendes.",
+    "dataNascimento": "",
+    "localNascimento": "",
+    "biografia": "Toby Froud participou de Labirinto ainda bebê, interpretando Toby, o irmão mais novo de Sarah. Ele é filho do artista Brian Froud, que trabalhou no design visual e nos figurinos do filme.",
+    "curiosidade": "Toby Froud aparece no filme ainda bebê e posteriormente também desenvolveu carreira artística ligada ao trabalho com criaturas e fantasia.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Shelley Thompson",
+    "personagem": "Madrasta de Sarah",
+    "imagem": "assets/images/shelley_thompson.jpg",
+    "descricao": "Interpreta a madrasta de Sarah, que aparece no início do filme na casa da família.",
+    "dataNascimento": "",
+    "localNascimento": "",
+    "biografia": "Shelley Thompson é uma atriz canadense que participou de diversas produções para cinema e televisão. Em Labirinto, interpreta a madrasta de Sarah.",
+    "curiosidade": "Sua participação acontece principalmente no início da história, antes de Sarah entrar no mundo do labirinto.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Christopher Malcolm",
+    "personagem": "Pai de Sarah",
+    "imagem": "assets/images/christopher_malcolm.jpg",
+    "descricao": "Interpreta o pai de Sarah, que aparece na residência da família no início da história.",
+    "dataNascimento": "19 de agosto de 1946",
+    "localNascimento": "Aberdeen, Escócia",
+    "biografia": "Christopher Malcolm foi um ator, produtor e diretor britânico. Em Labirinto, interpretou o pai de Sarah.",
+    "curiosidade": "Além de atuar, Christopher Malcolm teve uma carreira ligada à produção e direção teatral e cinematográfica.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Shari Weiser",
+    "personagem": "Hoggle",
+    "imagem": "assets/images/shari_weiser.jpg",
+    "descricao": "Interpreta fisicamente Hoggle, um dos principais personagens que Sarah encontra durante sua jornada pelo labirinto.",
+    "dataNascimento": "",
+    "localNascimento": "",
+    "biografia": "Shari Weiser foi a intérprete responsável pela atuação física de Hoggle em Labirinto. O personagem é um dos principais habitantes do labirinto e acaba ajudando Sarah durante sua jornada.",
+    "curiosidade": "Hoggle foi criado por meio de técnicas de manipulação e atuação com fantasia, exigindo um trabalho conjunto entre os artistas envolvidos.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Brian Henson",
+    "personagem": "Hoggle / Goblin",
+    "imagem": "assets/images/brian_henson.jpg",
+    "descricao": "Participa da interpretação de Hoggle e também trabalha com personagens e criaturas do filme.",
+    "dataNascimento": "3 de novembro de 1963",
+    "localNascimento": "Nova York, EUA",
+    "biografia": "Brian Henson é um produtor, diretor e artista norte-americano ligado à família Henson e ao trabalho com marionetes e criaturas. Em Labirinto, participou da manipulação e interpretação de personagens, incluindo Hoggle.",
+    "curiosidade": "Brian Henson é filho de Jim Henson, diretor de Labirinto e criador dos Muppets.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Ron Mueck",
+    "personagem": "Ludo / Firey 2 / Goblin",
+    "imagem": "assets/images/ron_mueck.webp",
+    "descricao": "Participa da interpretação e manipulação de personagens e criaturas, incluindo Ludo.",
+    "dataNascimento": "",
+    "localNascimento": "",
+    "biografia": "Ron Mueck é um artista e escultor australiano conhecido por suas esculturas hiper-realistas. Antes de se tornar conhecido por seu trabalho artístico, participou da produção de criaturas e personagens para filmes.",
+    "curiosidade": "Ron Mueck posteriormente ficou conhecido internacionalmente por suas esculturas de grande escala e aparência extremamente realista.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Rob Mills",
+    "personagem": "Ludo / Firey 3",
+    "imagem": "assets/images/rob_mills.jpg",
+    "descricao": "Participa da interpretação de personagens e criaturas do filme, incluindo Ludo e Firey 3.",
+    "dataNascimento": "",
+    "localNascimento": "",
+    "biografia": "Rob Mills participou da equipe de artistas responsáveis pela interpretação e manipulação de criaturas em Labirinto.",
+    "curiosidade": "Seu trabalho no filme envolveu personagens que utilizavam técnicas de fantasia, figurinos e manipulação de criaturas.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Dave Goelz",
+    "personagem": "Didymus / outras criaturas",
+    "imagem": "assets/images/dave_goelz.jpg",
+    "descricao": "Participa da interpretação e voz de Didymus e de outras criaturas do filme.",
+    "dataNascimento": "16 de julho de 1946",
+    "localNascimento": "Los Angeles, Califórnia, EUA",
+    "biografia": "Dave Goelz é um artista, manipulador de marionetes e dublador norte-americano conhecido principalmente por seu trabalho com os Muppets. Em Labirinto, participou de diversos personagens e criaturas.",
+    "curiosidade": "Dave Goelz é conhecido por interpretar personagens dos Muppets, incluindo Gonzo.",
+    "siteOficial": ""
+  },
+  {
+    "nome": "Frank Oz",
+    "personagem": "The Wiseman",
+    "imagem": "assets/images/frank_oz.jpg",
+    "descricao": "Interpreta e dá voz ao The Wiseman, uma das criaturas encontradas por Sarah durante sua jornada.",
+    "dataNascimento": "25 de maio de 1944",
+    "localNascimento": "Hereford, Inglaterra",
+    "biografia": "Frank Oz é um diretor, ator, dublador e manipulador de marionetes britânico-americano. É conhecido por seu trabalho com os Muppets e por dar voz a personagens como Yoda, de Star Wars.",
+    "curiosidade": "Frank Oz trabalhou durante muitos anos com Jim Henson e foi responsável por interpretar diversos personagens famosos dos Muppets.",
+    "siteOficial": ""
+  }
+]

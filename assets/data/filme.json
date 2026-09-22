@@ -1,0 +1,51 @@
+[
+  {
+    "titulo": "Labirinto - A Magia do Tempo",
+    "tituloOriginal": "Labyrinth",
+    "ano": 1986,
+    "duracao": 101,
+    "diretor": "Jim Henson",
+    "genero": "Fantasia e aventura",
+    "sinopse": "Sarah é uma adolescente que precisa atravessar um misterioso labirinto para salvar seu irmão Toby, que foi levado por Jareth, o Rei dos Duendes. Durante sua jornada, ela enfrenta desafios, criaturas fantásticas e enigmas.",
+    "roteiro": "Terry Jones",
+    "historia": [
+      "Dennis Lee",
+      "Jim Henson"
+    ],
+    "produtores": [
+      "Eric Rattray"
+    ],
+    "produtoresExecutivos": [
+      "George Lucas",
+      "David Lazer"
+    ],
+    "diretorFotografia": "Alex Thomson",
+    "editor": "John Grover",
+    "diretoraCasting": "Jane Jenkins",
+    "designerProducao": "Elliot Scott",
+    "figurinistas": [
+      "Ellis Flyte",
+      "Brian Froud",
+      "Polly Smith (Creature Shop)"
+    ],
+    "compositor": "Trevor Jones",
+    "maquiagem": [
+      "Nick Dudman",
+      "Derry Haws",
+      "Wally Schneiderman"
+    ],
+    "curiosidades": [
+      "O filme foi dirigido por Jim Henson.",
+      "David Bowie interpreta Jareth, o Rei dos Duendes.",
+      "George Lucas participou como produtor executivo.",
+      "Brian Froud participou do design de produção e do design de figurinos.",
+      "David Bowie também participou da trilha musical, escrevendo músicas para o filme."
+    ],
+    "imagem": "assets/images/poster.jpg",
+    "siteOficial": "https://www.henson.com/labyrinth/",
+    "fontes": [
+      "https://www.imdb.com/title/tt0091369/fullcredits/",
+      "https://www.henson.com/labyrinth/"
+    ]
+  }
+]
