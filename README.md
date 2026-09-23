@@ -6,15 +6,14 @@ reunindo seu enredo, dados técnicos, elenco, curiosidades e equipe de produçã
 . O aplicativo também permite consultar informações detalhadas sobre os participantes e acessar sites oficiais rel
 acionados ao filme e aos artistas.
 
-
+# Wiki
+https://github.com/PietroMartinss/MobileAlineFinalizado/wiki
 ## Sumário da Wiki
 
-1. [Dados do Filme](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/01-Dados-do-filme)
-2. [Protótipo](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/02-Prototipo)
-3. [Descrição dos elementos do protótipo](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/03-Descricao-dos-elementos)
-4. [Descrição dos elementos do projeto final](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/04-Descricao-dos-elementos-do-projeto-final)
-5. [Funcionalidades e implementações](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/05-Funcionalidades-e-Implementacoes)
-
- # Link pra Wiki Completa
+1. [Dados do Filme](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/1.-Dados-do-Filme)
+2. [Protótipo](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/2.-Prot%C3%B3tipo)
+3. [Descrição dos elementos do protótipo](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/3.-Descricao-dos-elementos-prot%C3%B3tipo.)
+4. [Descrição dos elementos do projeto final](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/4.-Descri%C3%A7%C3%A3o-dos-elementos-do-projeto-final)
+5. [Funcionalidades e implementações](https://github.com/PietroMartinss/MobileAlineFinalizado/wiki/5.-Funcionalidades-e-implementa%C3%A7%C3%B5es)
 
  
